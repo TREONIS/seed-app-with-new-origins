@@ -1,6 +1,3 @@
-#!/bin/bash
-
-old_pwd=$(pwd)
 cd ~/
 
 if [[ -e y2-venv ]]; then
